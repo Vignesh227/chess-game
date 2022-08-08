@@ -1,9 +1,19 @@
+
+/*
+                TWO PLAYER CHESS GAME !!
+
+  Created by : VIGNESH PANDIAN T ,
+               Student, Thiagarajar College of Engineering.
+  Date : 08-08-2022.
+
+*/
+
 #include<iostream>
 #include<cstring> //header to use memset function
 #include<iomanip>
 #include<string>
 #include<windows.h> //header to change text color of the OP text
-#include<limits>
+#include<limits> 
 #define N 8
 using namespace std;
 
