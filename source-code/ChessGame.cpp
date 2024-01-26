@@ -2,8 +2,7 @@
 /*
                 TWO PLAYER CHESS GAME !!
 
-  Created by : VIGNESH PANDIAN T ,
-               Student, Thiagarajar College of Engineering.
+  Created by : VIGNESH PANDIAN T 
   Date : 08-08-2022.
 
 */
